@@ -9,7 +9,7 @@ global.socialm = "GitHub: Prexzybooster"
 global.location = "Nigeria, Osun, Osogbo"
 
 global.ownernumber = 221705061652 '  //creator number
-global.ownername = 'Prexzy Tech' //owner name
+global.ownername = 'laye tchouameni ' //owner name
 global.botname = 'PREXZY ᵇᵘᵍ ᵇᵒᵗ' //name of the bot
 
 //sticker details
